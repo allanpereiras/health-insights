@@ -1,0 +1,112 @@
+[
+{
+    "model": "insights.healthinsightrecommendation",
+    "pk": 1,
+    "fields": {
+        "created": "2022-12-02T18:44:23.815Z",
+        "modified": "2022-12-02T18:44:23.815Z",
+        "title": "",
+        "description": null,
+        "slug": "-2",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "goal": 1,
+        "priority": 1,
+        "delivery_time": null,
+        "notification_text": "Looks like it's been %s days since you have logged %s steps. Lets plan a walk today to help you meet your goal. ",
+        "alt_notification_text": "Lets log some steps today. Your goal is %s steps, get to it! ",
+        "health_insights": [
+            5
+        ]
+    }
+},
+{
+    "model": "insights.healthinsightrecommendation",
+    "pk": 2,
+    "fields": {
+        "created": "2022-12-02T18:44:23.819Z",
+        "modified": "2022-12-02T18:44:23.819Z",
+        "title": "",
+        "description": null,
+        "slug": "-2",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "goal": 2,
+        "priority": 1,
+        "delivery_time": null,
+        "notification_text": "Looks like it's been %s days since you have logged %s active calories. Lets plan a workout today to help keep you on track.",
+        "alt_notification_text": "Don't fall in a rut. It's time to burn some calories to stay on track. Your goal is %s calories. ",
+        "health_insights": [
+            1
+        ]
+    }
+},
+{
+    "model": "insights.healthinsightrecommendation",
+    "pk": 3,
+    "fields": {
+        "created": "2022-12-02T18:44:23.820Z",
+        "modified": "2022-12-02T18:44:23.820Z",
+        "title": "",
+        "description": null,
+        "slug": "-2",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "goal": 3,
+        "priority": 1,
+        "delivery_time": null,
+        "notification_text": "You got less than %s hours of sleep last night. Don't forget to prioritize sleep to be your best during the day. Consider taking a rest day if possible. ",
+        "alt_notification_text": "Your current goal is %s hours of sleep per night. Adequate sleep helps improve longevity. ",
+        "health_insights": [
+            4
+        ]
+    }
+},
+{
+    "model": "insights.healthinsightrecommendation",
+    "pk": 4,
+    "fields": {
+        "created": "2022-12-02T18:44:23.821Z",
+        "modified": "2022-12-02T18:44:23.821Z",
+        "title": "",
+        "description": null,
+        "slug": "-2",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "goal": 4,
+        "priority": 1,
+        "delivery_time": null,
+        "notification_text": "Your resting heart rate was elevated %s%% above average last night. Could you be exercising, eating or drinking too close to bedtime? ",
+        "alt_notification_text": "",
+        "health_insights": [
+            3
+        ]
+    }
+},
+{
+    "model": "insights.healthinsightrecommendation",
+    "pk": 5,
+    "fields": {
+        "created": "2022-12-02T18:44:23.823Z",
+        "modified": "2022-12-02T18:44:23.823Z",
+        "title": "",
+        "description": null,
+        "slug": "-2",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "goal": 5,
+        "priority": 1,
+        "delivery_time": null,
+        "notification_text": "Your resting heart rate was elevated %s%% above average last night. Could you be exercising, eating or drinking too close to bedtime? ",
+        "alt_notification_text": "Your resting heart rate was elevated last night, indicating that you may not be recovered. Consider taking a rest day or have a nap. ",
+        "health_insights": [
+            3
+        ]
+    }
+}
+]

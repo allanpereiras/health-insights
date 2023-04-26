@@ -1,0 +1,42 @@
+[
+{
+    "model": "insights.statistic",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-02-17T21:36:04.959Z",
+        "updated_at": "2022-02-17T21:36:04.959Z",
+        "name": "SUM",
+        "slug_name": "sum"
+    }
+},
+{
+    "model": "insights.statistic",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-03-10T15:54:12.179Z",
+        "updated_at": "2022-03-10T15:54:12.179Z",
+        "name": "AVG",
+        "slug_name": "avg"
+    }
+},
+{
+    "model": "insights.statistic",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-03-10T15:54:13.178Z",
+        "updated_at": "2022-03-10T15:54:13.178Z",
+        "name": "MIN",
+        "slug_name": "min"
+    }
+},
+{
+    "model": "insights.statistic",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-03-10T15:54:14.008Z",
+        "updated_at": "2022-03-10T15:54:14.008Z",
+        "name": "MAX",
+        "slug_name": "max"
+    }
+}
+]

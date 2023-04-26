@@ -1,0 +1,122 @@
+[
+{
+    "model": "insights.healthinsight",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-02-17T21:37:02.739Z",
+        "marker": 1,
+        "statistic": 1,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-02-17T21:37:02.739Z",
+        "marker": 2,
+        "statistic": 4,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-05-09T21:11:01.295Z",
+        "marker": 3,
+        "statistic": 3,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "min",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-08-03T18:41:16.159Z",
+        "marker": 4,
+        "statistic": 1,
+        "default_duration": "23:59:59",
+        "start_from": "12:00:00",
+        "backwards": true,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-11-16T15:25:01.460Z",
+        "marker": 5,
+        "statistic": 1,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-02-17T21:37:02.739Z",
+        "updated_at": "2022-05-09T21:11:01.296Z",
+        "marker": 6,
+        "statistic": 3,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "min",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-12-21T14:48:17.180Z",
+        "updated_at": "2022-12-21T14:48:17.180Z",
+        "marker": 7,
+        "statistic": 1,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+},
+{
+    "model": "insights.healthinsight",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-12-21T14:48:17.183Z",
+        "updated_at": "2022-12-21T14:48:17.183Z",
+        "marker": 8,
+        "statistic": 1,
+        "default_duration": "23:59:59",
+        "start_from": "00:00:00",
+        "backwards": false,
+        "in_devices_aggregation": "max",
+        "chart_type": "line"
+    }
+}
+]

@@ -1,0 +1,82 @@
+[
+{
+    "model": "insights.goal",
+    "pk": 1,
+    "fields": {
+        "created": "2022-12-02T18:44:23.802Z",
+        "modified": "2022-12-02T18:44:23.802Z",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "name": "Weight loss [Steps]",
+        "aggregation_type": "avg",
+        "aggregation_period": "30 00:00:00",
+        "value": "10000.0000",
+        "value_unit": "steps"
+    }
+},
+{
+    "model": "insights.goal",
+    "pk": 2,
+    "fields": {
+        "created": "2022-12-02T18:44:23.802Z",
+        "modified": "2022-12-02T18:44:23.802Z",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "name": "Weight loss [Calories]",
+        "aggregation_type": "avg",
+        "aggregation_period": "30 00:00:00",
+        "value": "500.0000",
+        "value_unit": "kcal"
+    }
+},
+{
+    "model": "insights.goal",
+    "pk": 3,
+    "fields": {
+        "created": "2022-12-02T18:44:23.802Z",
+        "modified": "2022-12-02T18:44:23.802Z",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "name": "Sleep optimization",
+        "aggregation_type": "avg",
+        "aggregation_period": "30 00:00:00",
+        "value": "7.0000",
+        "value_unit": "hours"
+    }
+},
+{
+    "model": "insights.goal",
+    "pk": 4,
+    "fields": {
+        "created": "2022-12-02T18:44:23.802Z",
+        "modified": "2022-12-02T18:44:23.802Z",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "name": "Performance Men",
+        "aggregation_type": "avg",
+        "aggregation_period": "30 00:00:00",
+        "value": "60.0000",
+        "value_unit": "bpm"
+    }
+},
+{
+    "model": "insights.goal",
+    "pk": 5,
+    "fields": {
+        "created": "2022-12-02T18:44:23.802Z",
+        "modified": "2022-12-02T18:44:23.802Z",
+        "status": 1,
+        "activate_date": null,
+        "deactivate_date": null,
+        "name": "Performance Women",
+        "aggregation_type": "avg",
+        "aggregation_period": "30 00:00:00",
+        "value": "80.0000",
+        "value_unit": "bpm"
+    }
+}
+]

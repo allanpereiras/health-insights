@@ -1,0 +1,74 @@
+[
+{
+    "model": "insights.marker",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-02-17T21:34:48.135Z",
+        "updated_at": "2022-02-17T21:34:48.135Z",
+        "name": "Calories Burned"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-03-10T15:54:20.015Z",
+        "updated_at": "2022-03-10T15:54:20.015Z",
+        "name": "Health Score"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-03-10T15:54:20.677Z",
+        "updated_at": "2022-03-10T15:54:20.678Z",
+        "name": "Resting Heart Rate"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-03-10T15:54:21.336Z",
+        "updated_at": "2022-03-10T15:54:21.336Z",
+        "name": "Sleep Duration"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-03-10T15:54:21.994Z",
+        "updated_at": "2022-03-10T15:54:21.994Z",
+        "name": "Steps"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-03-10T15:54:22.655Z",
+        "updated_at": "2022-03-10T15:54:22.655Z",
+        "name": "Weight"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-12-21T14:48:17.165Z",
+        "updated_at": "2022-12-21T14:48:17.165Z",
+        "name": "Calories Burned at Rest"
+    }
+},
+{
+    "model": "insights.marker",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-12-21T14:48:17.169Z",
+        "updated_at": "2022-12-21T14:48:17.169Z",
+        "name": "Total Calories Burned"
+    }
+}
+]
